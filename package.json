@@ -1,0 +1,25 @@
+{
+  "name": "aws-sns-to-elasticsearch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScheduleOnce/aws-sns-to-elasticsearch.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScheduleOnce/aws-sns-to-elasticsearch/issues"
+  },
+  "homepage": "https://github.com/ScheduleOnce/aws-sns-to-elasticsearch#readme",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "superagent": "^5.1.0"
+  }
+}
