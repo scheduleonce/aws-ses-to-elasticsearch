@@ -26,7 +26,5 @@ exports.handler = function(event, context, callback) {
 // for example '2017-12-06'
 function getDate() {
   const now = new Date();
-  return new Date(now.getFullYear(), now.getMonth(), 1)
-    .toISOString()
-    .substring(0, 10);
+  return new Date(now.getFullYear(), now.getMonth(), 1).toISOString().substring(0, 10);
 }
