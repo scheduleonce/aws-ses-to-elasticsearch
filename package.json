@@ -20,6 +20,6 @@
     "prettier": "^1.18.2"
   },
   "dependencies": {
-    "superagent": "^5.1.0"
+    "superagent": "^9.0.0"
   }
 }
