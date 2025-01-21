@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/ScheduleOnce/aws-sns-to-elasticsearch#readme",
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^1.19.1"
   },
   "dependencies": {
     "superagent": "^5.1.0"
